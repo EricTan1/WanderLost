@@ -1,5 +1,5 @@
 ﻿var firebaseConfig = {
-    apiKey: "AIzaSyA54uMjn1a1GcWxxfOPogjdlTuKl05okx0",
+    apiKey: "",
     authDomain: "lostmerchants-test.firebaseapp.com",
     projectId: "lostmerchants-test",
     storageBucket: "lostmerchants-test.appspot.com",
